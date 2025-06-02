@@ -4,7 +4,7 @@
 
 This repo is for **GitHub** *training*
 
-##Location / Time
+## Location / Time
 
 * Pace University
 * Summer 2025
