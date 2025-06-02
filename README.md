@@ -15,3 +15,6 @@ This repo is for **GitHub** *training*
 * Outcome 2
 
 ## Even more outcomes
+
+* Other outcome 
+* A different outcome
